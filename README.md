@@ -6,7 +6,7 @@ This repository contains Jupyter Notebooks and code that I am using as I progres
 
 *   **Title:** AI Agents in LangGraph
 *   **Instructors:** Harrison Chase (LangChain), Rotem Weiss (Tavily)
-*   **Platform:**  [Mention where you are taking the course, e.g., LangChain's website, YouTube, etc. If possible, add a link.]
+*   **Platform:**  Deeob learning.AI
 *   **Focus:** Building controllable AI agents using the LangGraph framework, integrating agentic search, and implementing advanced features like persistence and human-in-the-loop.
 
 **Purpose of this Repository:**
